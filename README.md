@@ -21,5 +21,6 @@ It calculates the similarity between the given movie and other movies using the 
 The function returns a list of similar movie IDs.
 ## Result/Recommendations
 <img width="246" alt="movie_reccomendation" src="https://github.com/laasyane11ore/Recommendation-System/assets/138700086/f229fbfe-ab03-4e6c-8fdd-d059760f279f">
+
 ## Conclusion
 This code demonstrates how to build a simple movie recommendation system using collaborative filtering and k-Nearest Neighbors. It calculates the similarity between movies based on user ratings and suggests similar movies to a given input movie.
